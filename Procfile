@@ -1,1 +1,1 @@
-web: gunicorn boutique-ado-shop.wsgi:application
+web: gunicorn cld-boutique-ado.wsgi:application
